@@ -1,7 +1,3 @@
-export default function Page() {
-    return (
-        <div>
-            <h1>Welcome to (.) Page F2</h1>
-        </div>
-    );
+export default function InterceptedF2() {
+  return <h1>(.) Intercepted F2 page</h1>;
 }
